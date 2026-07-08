@@ -1,13 +1,13 @@
 # Take input from the user and print length 
 
-# str=input("Enter your name :")
+str=input("Enter your name :")
 
-# print(len(str))
+print(len(str))
 
 # find occurrence of @ in a string 
 
-# string = "$ Hello my name$ is utsav"
-# print(string.count("$"))
+string = "$ Hello my name$ is utsav"
+print(string.count("$"))
 
 # Reverse Words in a Given String in Python
 
