@@ -1,5 +1,6 @@
-def sum (a,b):
-    sum = a+b
-    return sum 
+def mul (a,b):
 
-print(sum(20,222))
+    mul = a * b
+    return mul 
+
+print(mul(20,2))
