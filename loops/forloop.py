@@ -1,3 +1,4 @@
+# practice of for loop in python
 list1=[1,2,3,4,5,6]
 
 for element in list1:
