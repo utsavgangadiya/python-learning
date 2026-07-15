@@ -2,4 +2,4 @@ def sum (a,b):
     sum = a+b
     return sum 
 
-print(sum(2020, 2020))
+print(sum(20,222))
